@@ -1,7 +1,7 @@
 # THC-CAT
 The code behind a catalog of 121 TeV-emitting HBL Candidates 
 <p align="center">
-  <img src="figures/ALG.png" alt="ALG" width="400"/>
+  <img src="FIGURES/ALG.png" alt="ALG" width="400"/>
   <i><br> Figure 1: The algorithm depicted in Figure 3 of Metzger, Gokus, & Errando (2025).</i>
 </p>
 
