@@ -15,6 +15,8 @@ Please note that all scripts have input files from a number of catalogs that are
 
 [WISE_EROSITA_ALLmatches.ipynb](WISE_EROSITA_ALLmatches.ipynb) selects 5482 sources that have ALLWISE counterparts within the accepted magntiudes and colors and have an eRASS1_Main counterpart within 5''. These 5482 sources are then cross-matched with the same multi-wavelength catalogs used in the THC algorithm. 
 
+## Necessary files 
+
 ### Core catalogs
 The following catalogs are vital to the algorithm and must be accessed separately. 
 * eRASS1 (Merloni et al. 2024)
@@ -24,20 +26,20 @@ The following catalogs are vital to the algorithm and must be accessed separatel
 * Faint Images of the Radio Sky at Twenty cm (White et al. 1997; Helfand et al. 2015)
 * NRAO VLA Sky Survey (Cordon et al. 1998)
 
-## Catalogs for analysis 
+### Catalogs for analysis 
 The following catalogs are used to gain additional information about the 121 candidate sources.  
 
-### Optical 
+#### Optical 
 * Gaia DR3 (Gaia Collaboration 2022) 
 
-### Gamma-ray 
+#### Gamma-ray 
 * Second Catalog of High-Energy Fermi-LAT sources (Ackerman et al. 2016)
 * Third Fermi-LAT Catalog of High-Energy Sources (Ajello et al. 2017)
 * LAT 14-year Source Catalog (Ballet et al. 2024)
 * Fourth Catalog of Active Galactic Nuclei Detected by the Fermi Large Area Telescope Data Release 3 (Ajello et al. 2023)
 * First Cosmic Gamma-ray Horizon (Arsioli et al. 2025)
 
-### Multi-frequency 
+#### Multi-frequency 
 * 5th edition Roma-BZCAT (Massaro et al. 2015)
 * 3HSP (Chang et al. 2019)
 * 1st edition WHSP (Arsioli et al. 2015)
