@@ -10,7 +10,7 @@ This repository contains two data sets: primary catalog [THC_catalog.fits](./CAT
 
 [THC_catalog.fits](./CATALOGS/THC_catalog.fits) contains the 121 THC sources that pass all parameters detailed in Figure 1. It is produced using [THC_algorithm.ipynb](THC_algorithm.ipynb). 
 
-[WISE_EROSITA_ALLmatches.fits](./CATALOGS/WISE_EROSITA_ALLmatches.fits) contains all 5482 sources that pass the IR magnitude and color cuts (Steps 1&2 in Section 3 of Metzger et al. 2025) and have WISEA and 1eRASS counterparts within 5'' of one another. 
+[WISE_EROSITA_ALLmatches.fits](./CATALOGS/WISE_EROSITA_ALLmatches.fits) contains all 5482 sources that pass the IR magnitude and color cuts (Steps 1&2 in Section 3 of Metzger et al. 2025) and have WISEA and 1eRASS counterparts within 5'' of one another. This file is produced using [WISE_EROSITA_ALLmatches.ipynb](WISE_EROSITA_ALLmatches.ipynb). 
 
 
 ## Scripts
