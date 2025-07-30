@@ -5,6 +5,14 @@ The code behind a catalog of 121 TeV-emitting HBL Candidates
   <i><br> Figure 1: The algorithm depicted in Figure 3 of Metzger, Gokus, & Errando (2025).</i>
 </p>
 
+## Data products
+This repository contains two data sets: primary catalog [THC_catalog.fits](./CATALOGS/THC_catalog.fits) and supplementary catalog [WISE_EROSITA_ALLmatches.fits](./CATALOGS/WISE_EROSITA_ALLmatches.fits). 
+
+[THC_catalog.fits](./CATALOGS/THC_catalog.fits) contains the 121 THC sources that pass all parameters detailed in Figure 1. It is produced using [THC_algorithm.ipynb](THC_algorithm.ipynb). 
+
+[WISE_EROSITA_ALLmatches.fits](./CATALOGS/WISE_EROSITA_ALLmatches.fits) contains all 5482 sources that pass the IR magnitude and color cuts (Steps 1&2 in Section 3 of Metzger et al. 2025) and have WISEA and 1eRASS counterparts within 5'' of one another. 
+
+
 ## Scripts
 Please note that all scripts have input files from a number of catalogs that are not included in this repository and must be retrieved separately. As a result, you will need to edit the paths in the scripts to match your local directory. 
 
