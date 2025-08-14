@@ -21,6 +21,3 @@ NVSS.fits
 SUMSS.fits
 eRASS1_Main.v1.1.fits
 massaro_selection.fits
-.DS_Store
-.gitignore 
-__pycache__
