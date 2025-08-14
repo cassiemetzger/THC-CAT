@@ -3,7 +3,7 @@ ALLWISE.fits
 1CGH_Preliminary_V2.0.fits
 2FHL.fits
 3FHL.fits
-4FGL_DR4.fits
+4FGL*
 4LAC-DR3.fits
 TeVCAT_HBLs.csv
 1whsp.fits
@@ -20,4 +20,4 @@ FIRST.fits
 NVSS.fits
 SUMSS.fits
 eRASS1_Main.v1.1.fits
-massaro_selection.fits
+massaro*
