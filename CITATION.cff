@@ -1,9 +1,17 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Cassidy, Andrea, Manel
-  given-names: Metzger, Gokus, Errando
-orcid: https://orcid.org/0000-0003-3585-3356, https://orcid.org/0000-0002-5726-5216, https://orcid.org/0000-0002-1853-863X
-title:cassiemetzger/THC-CAT: TeV-emitting HBL Candidate Catalog
+- family-names: "Metzger"
+  given-names: "Cassidy"
+  orcid: "https://orcid.org/0000-0003-3585-3356"
+- family-names: "Gokus"
+  given-names: "Andrea"
+  orcid: "https://orcid.org/0000-0002-5726-5216"
+- family-names: "Errando"
+  given-names: "Manel"
+  orcid: "https://orcid.org/0000-0002-1853-863X"
+title: "TeV-emitting HBL Candidate Catalog (THC-CAT)" 
 version: v1.0
 date-released: 2025-08-13
+doi: 10.5281/zenodo.16862437
+url: "https://github.com/cassiemetzger/THC-CAT"
